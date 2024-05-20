@@ -1,0 +1,3 @@
+django
+watchdog
+psycopg2-binary
